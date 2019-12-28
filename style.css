@@ -1,0 +1,98 @@
+/* BODY SECTION */
+body {
+  margin: 0;
+  padding: 0;
+   background: url("https://news.blr.com/app/uploads/sites/3/2016/09/American-Flag.jpg");
+  background-size: cover;
+  }
+/* HEADER SECTION */
+
+header {
+  text-align: center;
+  background-color: darkgray;
+  text-transform: capitalize;
+  opacity: 0.8;
+  border-bottom: 3px solid red;
+  border-top: 3px solid red;
+  }
+h4 {
+  color: white;
+  font-family: Bodoni MT;
+  margin: -15px;
+}
+header p {
+  font-family: Bodoni MT;
+  font-weight: bold;
+  color: darkblue;
+  font-size: 30px;
+  text-transform: capitalize;
+  }
+#title {
+  font-family: Bodoni MT;
+  font-weight: bold;
+  color: darkblue;
+  font-size: 40px;
+}
+/* IMAGE SECTION */
+
+#image {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  opacity: 0.8;
+  border: 3px solid white;
+  
+}
+#img-caption {
+  text-align: center;
+  color: white;
+  font-family: Bodoni MT;
+  font-weight: italic;
+  font-size: 20px;
+  margin: -30px
+  padding: 40px;
+}
+/* TRIBUTE SECTION */
+
+#tribute-info {
+  text-align: center;
+  font-family: Bodoni MT;
+  font-weight: bold;
+ background-color: darkgrey;
+  color: darkblue;
+  font-size: 25px;
+  opacity: 0.8;
+  border-top: 3px solid blue;
+  
+   
+}
+#tribute-link {
+  color: Crimson;
+  font-weight: bold;
+}
+.center {
+  text-align: center;
+  list-style-position: inside;
+}
+li {
+  text-transform: capitalize;
+  margin: 10px;
+}
+/* FOOTER SECTION */
+
+footer {
+  color: darkblue;
+  font-weight: bold;
+  text-transform: capitalize;
+  opacity: 0.8;
+  border-top: 3px solid blue;
+}
+footer h4 {
+  margin: 0;
+  font-size: 15px;
+  color: darkblue;
+  font-weight: bold;
+  border-bottom: 2px solid blue;
+}
